@@ -22,7 +22,7 @@ const aboutMe = {
          java: ["JDK8"],
          electronJs: ["Angular", "Asp.net Core"]
       },
-      misc: "ORM EntityFrameworkCore"
+      misc: "ORM EntityFrameworkCore",
       databases: ["SQLServer", "mySQL", "Oracle 18C"]
    },
    currentOccupation: ["Freelancer and constant student, open to job opportunities and challenges"],
