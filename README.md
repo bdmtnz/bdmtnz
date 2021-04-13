@@ -1,6 +1,6 @@
 ### Hi, I am Brayan Martinez 👋
 
-<img src="https://i.imgur.com/jFhWCA5.png"/>
+<img src="https://i.imgur.com/bUixnLq.png"/>
 
 <p><em>A systems engineer student at <a href="http://sistemas.unicesar.edu.co/">Popular University of Cesar</a> 😊</br>
 </em></p>
