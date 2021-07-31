@@ -24,7 +24,7 @@ const aboutMe = {
       misc: "ORM EntityFrameworkCore",
       databases: ["SQLServer", "mySQL", "Oracle 18C"]
    },
-   currentOccupation: ["Freelancer and constant student, open to job opportunities and challenges"],
-   challenge: "I am working to implement IA in elements of my daily life",
+   currentOccupation: ["Software Engineer at NCQ Solutions and constant student, open to challenges"],
+   challenge: "I am working to implement AWS on my workflow",
 };
 ```
